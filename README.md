@@ -28,8 +28,8 @@ If you have a project in mind or looking for a collaborator, feel free to reach 
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/migada-sarah-1756b7244
-- Twitter: @SarahAc53118341
+- LinkedIn: https://www.linkedin.com/in/sarah-migada-30bab22a1
+- Twitter: https://x.com/MigadaSara35388
 - Discord: https://discord.com/channels/1148581179084243054/1199963883830509579
 
 Feel free to explore my repositories and let's connect to share ideas and collaborate! 🚀
