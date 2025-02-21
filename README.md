@@ -2,7 +2,7 @@ Hello, World! 👋
 I'm SARAH-MIGADA-a, a passionate software engineer on a journey to turn ideas into elegant code.
 
 ## Technologies & Tools
-- Languages: Javascript, Python, Java, C++, Ruby, Swift, HTML, CSS, R
+- Languages: Javascript, Python, Java, C++, Ruby, Swift, HTML, CSS, R,Motoko,Typescript
 - Frameworks: React,Django, TensorFlow, scikit-learn
 - Tools: VS Code,Git,Jupyter Notebook, pandas, Numpy
 
