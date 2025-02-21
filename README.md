@@ -4,7 +4,7 @@ I'm SARAH-MIGADA-a, a passionate software engineer on a journey to turn ideas in
 ## Technologies & Tools
 - Languages: Javascript, Python, Java, C++, Ruby, Swift, HTML, CSS, R,Motoko,Typescript
 - Frameworks: React,Django, TensorFlow, scikit-learn
-- Tools: VS Code,Git,Jupyter Notebook, pandas, Numpy
+- Tools: VS Code,Git,Jupyter Notebook, pandas, Numpy,Android Studio
 
 ## Currently Learning
 
